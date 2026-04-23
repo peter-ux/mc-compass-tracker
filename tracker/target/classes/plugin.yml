@@ -1,0 +1,7 @@
+name: PlayerTracker
+version: 1.0
+main: me.user.Main
+api-version: 1.21
+commands:
+  compass:
+    description: 나침반 지급
