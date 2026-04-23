@@ -1,4 +1,4 @@
-# mc-compass-tracker
+# mc-compass-tracker plugin
 minecraft tracking nearest player    1.21~
 
 # Build
@@ -8,4 +8,4 @@ mvn clean package
 
 
 
-Track players within 1,000 blocks, but tracking is disabled when they are sneaking (shifting). Geyser compatibility confirmed.
+Track players within 1,000 blocks, but tracking is disabled when they are sneaking (shifting). Geyser compatibility checked.
